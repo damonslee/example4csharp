@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj": {}
+    "e:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj": {}
   },
   "projects": {
-    "E:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj": {
+    "e:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj",
+        "projectUniqueName": "e:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj",
         "projectName": "hello",
-        "projectPath": "E:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj",
+        "projectPath": "e:\\WorkspaceVSCODE\\example4csharp\\hello\\hello.csproj",
         "packagesPath": "C:\\Users\\nanoomi\\.nuget\\packages\\",
-        "outputPath": "E:\\WorkspaceVSCODE\\example4csharp\\hello\\obj\\",
+        "outputPath": "e:\\WorkspaceVSCODE\\example4csharp\\hello\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

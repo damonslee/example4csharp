@@ -1,0 +1,11 @@
+e:\WorkspaceVSCODE\example4csharp\hello\bin\Debug\netcoreapp3.1\hello.exe
+e:\WorkspaceVSCODE\example4csharp\hello\bin\Debug\netcoreapp3.1\hello.deps.json
+e:\WorkspaceVSCODE\example4csharp\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.json
+e:\WorkspaceVSCODE\example4csharp\hello\bin\Debug\netcoreapp3.1\hello.runtimeconfig.dev.json
+e:\WorkspaceVSCODE\example4csharp\hello\bin\Debug\netcoreapp3.1\hello.dll
+e:\WorkspaceVSCODE\example4csharp\hello\bin\Debug\netcoreapp3.1\hello.pdb
+e:\WorkspaceVSCODE\example4csharp\hello\obj\Debug\netcoreapp3.1\hello.csprojAssemblyReference.cache
+e:\WorkspaceVSCODE\example4csharp\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfoInputs.cache
+e:\WorkspaceVSCODE\example4csharp\hello\obj\Debug\netcoreapp3.1\hello.AssemblyInfo.cs
+e:\WorkspaceVSCODE\example4csharp\hello\obj\Debug\netcoreapp3.1\hello.dll
+e:\WorkspaceVSCODE\example4csharp\hello\obj\Debug\netcoreapp3.1\hello.pdb
