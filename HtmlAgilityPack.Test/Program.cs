@@ -12,7 +12,6 @@ namespace HtmlAgilityPack.Test
 		    string aprice   = doc.SelectSingleNode("//th[text(),'가격점수제외금액(A)']").NextSibling.NextSibling.InnerText;
 
             Console.WriteLine(aprice);
-
             
         }
     }
