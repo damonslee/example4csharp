@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj": {}
+    "E:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj": {}
   },
   "projects": {
-    "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj": {
+    "E:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj",
+        "projectUniqueName": "E:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj",
         "projectName": "Http.Test",
-        "projectPath": "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj",
+        "projectPath": "E:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj",
         "packagesPath": "C:\\Users\\nanoomi\\.nuget\\packages\\",
-        "outputPath": "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\obj\\",
+        "outputPath": "E:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
