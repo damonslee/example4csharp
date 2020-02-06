@@ -1,0 +1,11 @@
+e:\WorkspaceVSCODE\example4csharp\Http.Test\bin\Debug\netcoreapp3.1\Http.Test.exe
+e:\WorkspaceVSCODE\example4csharp\Http.Test\bin\Debug\netcoreapp3.1\Http.Test.deps.json
+e:\WorkspaceVSCODE\example4csharp\Http.Test\bin\Debug\netcoreapp3.1\Http.Test.runtimeconfig.json
+e:\WorkspaceVSCODE\example4csharp\Http.Test\bin\Debug\netcoreapp3.1\Http.Test.runtimeconfig.dev.json
+e:\WorkspaceVSCODE\example4csharp\Http.Test\bin\Debug\netcoreapp3.1\Http.Test.dll
+e:\WorkspaceVSCODE\example4csharp\Http.Test\bin\Debug\netcoreapp3.1\Http.Test.pdb
+e:\WorkspaceVSCODE\example4csharp\Http.Test\obj\Debug\netcoreapp3.1\Http.Test.csprojAssemblyReference.cache
+e:\WorkspaceVSCODE\example4csharp\Http.Test\obj\Debug\netcoreapp3.1\Http.Test.AssemblyInfoInputs.cache
+e:\WorkspaceVSCODE\example4csharp\Http.Test\obj\Debug\netcoreapp3.1\Http.Test.AssemblyInfo.cs
+e:\WorkspaceVSCODE\example4csharp\Http.Test\obj\Debug\netcoreapp3.1\Http.Test.dll
+e:\WorkspaceVSCODE\example4csharp\Http.Test\obj\Debug\netcoreapp3.1\Http.Test.pdb

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\WorkspaceVSCODE\\example4csharp\\HtmlAgilityPack.Test\\HtmlAgilityPack.Test.csproj": {}
+    "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj": {}
   },
   "projects": {
-    "e:\\WorkspaceVSCODE\\example4csharp\\HtmlAgilityPack.Test\\HtmlAgilityPack.Test.csproj": {
+    "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\WorkspaceVSCODE\\example4csharp\\HtmlAgilityPack.Test\\HtmlAgilityPack.Test.csproj",
-        "projectName": "HtmlAgilityPack.Test",
-        "projectPath": "e:\\WorkspaceVSCODE\\example4csharp\\HtmlAgilityPack.Test\\HtmlAgilityPack.Test.csproj",
+        "projectUniqueName": "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj",
+        "projectName": "Http.Test",
+        "projectPath": "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\Http.Test.csproj",
         "packagesPath": "C:\\Users\\nanoomi\\.nuget\\packages\\",
-        "outputPath": "e:\\WorkspaceVSCODE\\example4csharp\\HtmlAgilityPack.Test\\obj\\",
+        "outputPath": "e:\\WorkspaceVSCODE\\example4csharp\\Http.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -42,12 +42,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "HtmlAgilityPack": {
-              "target": "Package",
-              "version": "[1.11.18, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
